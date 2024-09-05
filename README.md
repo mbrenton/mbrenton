@@ -1,16 +1,16 @@
-## Hi there 👋
+Matthew Brenton 謳 "mbrenton"
 
-<!--
-**mbrenton/mbrenton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--
 
-Here are some ideas to get you started:
+Interested in all things security and privacy
+Currently working on OSCP
+Graduate Cybersec student
+Grinding boxes, rooms, and projects =)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+--
+
+Socials
+
+Email: mbrenton98@gmail.com
+LinkedIn: https://www.linkedin.com/in/mbrenton
+THM: https://tryhackme.com/p/MASH
