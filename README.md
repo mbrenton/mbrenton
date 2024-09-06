@@ -1,16 +1,16 @@
-Matthew Brenton 謳 "mbrenton"
+Matthew Brenton 謳<br>
+"mbrenton"
 
 --
 
-Interested in all things security and privacy
-Currently working on OSCP
-Graduate Cybersec student
-Grinding boxes, rooms, and projects =)
+Security and Privacy 🤤<br>
+Currently working on OSCP<br>
+Graduate Cybersec student<br>
+Grinding boxes, rooms, and projects =)<br>
 
 --
 
-Socials
+Interest
 
-Email: mbrenton98@gmail.com
-LinkedIn: https://www.linkedin.com/in/mbrenton
-THM: https://tryhackme.com/p/MASH
+Hacking, Cybersec, Python, C, Linux<br>
+VG, SoL, ICDD, GTPs
