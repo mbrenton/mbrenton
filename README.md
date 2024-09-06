@@ -6,7 +6,7 @@ Matthew Brenton 謳
 
 Info
 
-Security and Privacy 🤤
+Security and Privacy Enthusiast 
 Currently working on OSCP
 Graduate Cybersec student
 Grinding boxes, rooms, and projects =)
