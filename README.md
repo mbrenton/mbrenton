@@ -1,20 +1,20 @@
 ```
-Matthew Brenton 謳<br>
+Matthew Brenton 謳
 "mbrenton"
 
 --
 
 Info
 
-Security and Privacy 🤤<br>
-Currently working on OSCP<br>
-Graduate Cybersec student<br>
-Grinding boxes, rooms, and projects =)<br>
+Security and Privacy 🤤
+Currently working on OSCP
+Graduate Cybersec student
+Grinding boxes, rooms, and projects =)
 
 --
 
 Interest
 
-Hacking, Cybersec, Python, C, Linux<br>
+Hacking, Cybersec, Python, C, Linux
 VG, SoL, ICDD, GTPs
 ```
