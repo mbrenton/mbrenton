@@ -16,5 +16,5 @@ Grinding boxes, rooms, and projects =)
 Interest
 
 Hacking, Cybersec, Python, C, Linux
-VG, SoL, ICDD, GTPs
+VG, SoL, ICDD, GTPs, 日本語
 ```
